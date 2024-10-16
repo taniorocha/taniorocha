@@ -12,7 +12,7 @@
 
 Love learning new things, sharing knowlege and interacting with the community.
 
-<img align="right" src="https://komarev.com/ghpvc/?username=taniorocha" alt="GitHub profile views counter">
+<img align="right" src="https://komarev.com/ghpvc/?username=taniorocha" alt="GitHub profile views counter" width="100%">
 
 **Talking about personal stuff:**
 
