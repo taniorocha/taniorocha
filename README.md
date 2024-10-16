@@ -17,7 +17,7 @@ I’m a passionate developer who loves programming and technology. I enjoy learn
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
 
 
-## How to Reach Me
+**How to Reach Me:**
 
 - 📫 You can contact me at [hortanio@gmail.com](mailto:your-email@example.com).
 - 🌐 Check out my portfolio at [taniorocha.com](https://taniorocha.com).
