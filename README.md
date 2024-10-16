@@ -1,5 +1,3 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=taniorocha" alt="GitHub profile views counter">
-
 ### Hi there, I'm <a href="https://taniorocha.com" target="_blank" title="Tanio Rocha">Tanio Rocha</a> 👋
 
 [![taniorocha's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/tanio-rocha)
@@ -19,3 +17,5 @@ Love learning new things, sharing knowlege and interacting with the community.
 - 👨 I’m Tanio Rocha (taniorocha).
 - 🏢 I currently work at Dotz.
 - 📫 How to reach me: hortanio@gmail.com
+
+<img align="right" src="https://komarev.com/ghpvc/?username=taniorocha" alt="GitHub profile views counter">
