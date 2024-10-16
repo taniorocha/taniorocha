@@ -34,3 +34,9 @@ I’m a passionate developer who loves programming and technology. I enjoy learn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanio-rocha) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="30px" alt="Hand Shake Emoji"/>
 
 Feel free to follow my profile and keep up with my projects. I’m always open to collaborations and new ideas!
+
+<br/>
+
+<a href="https://github.com/taniorocha" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
