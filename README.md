@@ -12,10 +12,10 @@
 
 Love learning new things, sharing knowlege and interacting with the community.
 
+<img align="right" src="https://komarev.com/ghpvc/?username=taniorocha" alt="GitHub profile views counter">
+
 **Talking about personal stuff:**
 
 - 👨 I’m Tanio Rocha (taniorocha).
 - 🏢 I currently work at Dotz.
 - 📫 How to reach me: hortanio@gmail.com
-
-<img align="right" src="https://komarev.com/ghpvc/?username=taniorocha" alt="GitHub profile views counter">
