@@ -36,5 +36,3 @@ I’m a passionate developer who loves programming and technology. I enjoy learn
 Feel free to follow my profile and keep up with my projects. I’m always open to collaborations and new ideas!
 
 ---
-
-Thank you for visiting my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up%20Light%20Skin%20Tone.png" alt="Thumbs Up Emoji" width="30px"/> 
