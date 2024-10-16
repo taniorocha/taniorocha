@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=taniorocha" alt="GitHub profile views counter">
+
 ### Hi there, I'm <a href="https://taniorocha.com" target="_blank" title="Tanio Rocha">Tanio Rocha</a> 👋
 
 [![taniorocha's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/tanio-rocha)
@@ -11,8 +13,6 @@
 <img align="right" alt="Tanio Rocha" src="images/coding.gif" width="400" />
 
 Love learning new things, sharing knowlege and interacting with the community.
-
-<img align="right" src="https://komarev.com/ghpvc/?username=taniorocha" alt="GitHub profile views counter" width="100%">
 
 **Talking about personal stuff:**
 
