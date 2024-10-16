@@ -10,17 +10,15 @@ I’m a passionate developer who loves programming and technology. I enjoy learn
 
 **Talking about personal stuff:**
 
-- 👨 I’m Tanio Rocha (taniorocha).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> I currently work at <strong>Dotz</strong>.
-- 📫 Reach me at <strong>hortanio@gmail.com</strong>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Boy.png" alt="Boy Emoji" width="30px" align="center" /> I’m Tanio Rocha (taniorocha).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Lightning Emoji" width="25px" align="center" /> I currently work at <strong>Dotz</strong>.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> I'm based in <strong>Fortaleza, Brazil</strong>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
 
-
 **How to Reach Me:**
 
-- 📫 You can contact me at [hortanio@gmail.com](mailto:your-email@example.com).
-- 🌐 Check out my portfolio at [taniorocha.com](https://taniorocha.com).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Reach me at <strong>[hortanio@gmail.com](mailto:hortanio@gmail.com)</strong>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Check out my portfolio at [taniorocha.com](https://taniorocha.com).
 
 <div align="center">
   <picture>
@@ -30,7 +28,7 @@ I’m a passionate developer who loves programming and technology. I enjoy learn
   </picture>
 </div>
 
-## Let’s Connect!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanio-rocha) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
