@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm <a href="https://taniorocha.com" target="_blank" title="Tanio Rocha">Tanio Rocha</a> 👋
 
-<!--
-**taniorocha/taniorocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![taniorocha's LinkedIn Profile](images/linkedin.png)](www.linkedin.com/in/tanio-rocha)
+[![taniorocha's Instagram Profile](images/instagram.png)](https://www.instagram.com/tnio_a)
+[![taniorocha's Facebook Profile](images/facebook.png)](https://www.facebook.com/tnio_a)
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Good to see you here!
+
+<img align="right" alt="Tanio Rocha" src="images/coding.gif" width="400" />
+
+Love learning new things and interacting with the community.
+
+**Talking about personal stuff:**
+
+- 👨 I’m Tanio Rocha (taniorocha).
+- 🏢 I currently work at Dotz.
+- 📫 How to reach me: hortanio@gmail.com
